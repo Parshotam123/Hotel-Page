@@ -1,0 +1,50 @@
+.main{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    background-color: rgb(229, 212, 212);
+}
+.nav-list{
+    display:inline;
+    justify-content: flex-end;
+}
+.nav-list li{
+    list-style-type: none;
+    display:inline;
+    justify-content:flex-end;
+    margin: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+#nav-btn{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 290px;
+}
+#lang{
+    margin-left: 0px;
+}
+.body{
+    background-image: url(./b4n7_ho_00_p_1024x768.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+h1{
+    justify-content: center;
+    margin-right: 50%;
+    margin-left: 50%;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    display: flex;
+}
+#five{
+    margin-left: 5px;
+    color: chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
